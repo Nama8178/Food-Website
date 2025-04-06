@@ -4,6 +4,10 @@
 
 FreshMeal is a frontend project showcasing a visually appealing and user-friendly Food Website. Crafted with HTML, CSS, and JavaScript, it offers a responsive and interactive experience for users, ensuring a delightful journey through the culinary world.
 
+## Demo
+![freshMeal_Project](https://github.com/user-attachments/assets/f476fa7f-b35c-4663-80df-9969be354f88)
+
+
 ## Features
 
 - **HTML Structure:** Well-organized for functionality and SEO.
